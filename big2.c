@@ -1,7 +1,7 @@
 #include <stdio.h>  
    
 void big()
-    {  
+ {  
     int a, b;  
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
@@ -19,5 +19,5 @@ void big()
 	printf("Both are Equal\n");
     }
    
-   // return 0;  
+//    return 0;  
 }
